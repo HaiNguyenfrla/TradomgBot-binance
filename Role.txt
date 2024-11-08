@@ -1,0 +1,2 @@
+Backend: Express server is responsible for interacting with the Binance API, calculating technical indicators, and serving the data.
+Frontend: React app uses axios to fetch data from the backend, then Chart.js to plot the market data and technical indicators.
